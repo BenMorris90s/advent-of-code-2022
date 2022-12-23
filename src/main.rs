@@ -1,4 +1,5 @@
 mod day_2;
+mod utils;
 
 const INPUT_DIRECTORY: &str = "./inputs";
 
